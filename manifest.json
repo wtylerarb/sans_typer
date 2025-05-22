@@ -22,6 +22,19 @@
         }
     ],
     "web_accessible_resources": [
-        "sounds/sans_voice.mp3"
+        "sounds/sans_voice.mp3",
+        "sounds/megalovania0.mp3",
+        "sounds/megalovania1.mp3",
+        "sounds/megalovania2.mp3",
+        "sounds/megalovania3.mp3",
+        "sounds/megalovania4.mp3",
+        "sounds/megalovania5.mp3",
+        "sounds/megalovania6.mp3",
+        "sounds/megalovania7.mp3",
+        "sounds/megalovania8.mp3",
+        "sounds/megalovania9.mp3",
+        "sounds/megalovania10.mp3",
+        "sounds/megalovania11.mp3",
+        "sounds/megalovania12.mp3"
     ]
 }
